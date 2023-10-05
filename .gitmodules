@@ -1,0 +1,21 @@
+[submodule "korge-hello-world-client-server"]
+	path = korge-hello-world-client-server
+	url = git@github.com:korlibs/korge-hello-world-client-server.git
+[submodule "korge-hello-world"]
+	path = korge-hello-world
+	url = git@github.com:korlibs/korge-hello-world.git
+[submodule "korge-starter-kit-compose"]
+	path = korge-starter-kit-compose
+	url = git@github.com:korlibs/korge-starter-kit-compose.git
+[submodule "korge-starter-kit-dungeon"]
+	path = korge-starter-kit-dungeon
+	url = git@github.com:korlibs/korge-starter-kit-dungeon.git
+[submodule "korge-starter-kit-platformer"]
+	path = korge-starter-kit-platformer
+	url = git@github.com:korlibs/korge-starter-kit-platformer.git
+[submodule "korge-starter-kit-pointandclickadventure"]
+	path = korge-starter-kit-pointandclickadventure
+	url = git@github.com:korlibs/korge-starter-kit-pointandclickadventure.git
+[submodule "korge-starter-kit-rpg"]
+	path = korge-starter-kit-rpg
+	url = git@github.com:korlibs/korge-starter-kit-rpg.git
